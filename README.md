@@ -120,6 +120,9 @@ The 2021 data
 2.	The data type of the “Founded” column is set to float64. It should be set to a string for uniformity. 
 
 
+        THE 2021 DATA 
+1. Some data types had to be changed so analysis could run smoothly.
+
 ## GENERAL NOTES
 
 •	The columns in 2018 are different from those of 2019–2021, meaning they have to be renamed before merging for consistency’s sake. 
