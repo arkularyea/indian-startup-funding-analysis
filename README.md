@@ -220,6 +220,6 @@ I’m also open to collaborating on projects.
 Link to the project repository on GitHub: https://github.com/arkularyea/indian-startup-funding-analysis.git
 
 
-# 
+
 LINKEDIN: https://www.linkedin.com/pulse/exploratory-analysis-indian-startup-from-2018-2021-nii-laryea
 
